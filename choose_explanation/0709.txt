@@ -1,0 +1,21 @@
+Coin Change
+https://leetcode.com/problems/coin-change/
+Jump Game
+https://leetcode.com/problems/jump-game/
+타임머신
+https://www.acmicpc.net/problem/11657
+임계경로
+https://www.acmicpc.net/problem/1948
+Permutation Sequence
+https://leetcode.com/problems/permutation-sequence/
+Add and Search Word
+https://leetcode.com/problems/add-and-search-word-data-structure-design/
+
+
+---------------------
+원주: Coin Change
+희연: Jump Game
+원주: 타임머신
+동훈: 임계경로
+희연: Permutation Sequence
+동훈: Add and Search Word

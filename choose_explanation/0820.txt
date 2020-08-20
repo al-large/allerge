@@ -1,0 +1,20 @@
+미네랄
+https://www.acmicpc.net/problem/2933
+달이 차오른다, 가자
+https://www.acmicpc.net/problem/1194
+207. Course Schedule
+https://leetcode.com/problems/course-schedule/
+120. Triangle
+https://leetcode.com/problems/triangle/
+Partition to K Equal Sum Subsets
+https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+Maximum XOR of Two Numbers in an Array
+https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+
+---------------------
+동훈: 미네랄
+원주: 달이 차오른다, 가자
+동훈: 207. Course Schedule
+원주: 120. Triangle
+원주: Partition to K Equal Sum Subsets
+동훈: Maximum XOR of Two Numbers in an Array
