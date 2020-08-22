@@ -5,8 +5,8 @@ import os
 for filename in os.listdir(os.getcwd()):
     if filename.endswith(".txt"):
         
-        name = ["동훈", "원주"]
-        p = 2
+        name = ["희연", "동훈", "원주"]
+        p = 3
         probs = []
         f = open(filename,'rt', encoding='UTF8')
         nums = 0
