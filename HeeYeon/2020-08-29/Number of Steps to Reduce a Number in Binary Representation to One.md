@@ -2,10 +2,10 @@
 (주소)https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/
 
 #### 풀이 해설:
-
+ ```c++
 1101. (13)
 
-1 1 1 0. (14)+1.  111 , 1000(없앤 1 개수만큼 0을 더함), 100, 10, 1
+1110. (14)   +1.  111 , 1000(없앤 1 개수만큼 0을 더함), 100, 10, 1
 
 111  (7) +1
 
@@ -18,6 +18,7 @@
 1. (1). +1
 
 = +6
+```
 
 
 ```c++
