@@ -1,0 +1,21 @@
+문자열 폭발 
+https://www.acmicpc.net/problem/9935
+주사위 윷놀이 
+https://www.acmicpc.net/problem/17825
+외판원 순회 
+https://www.acmicpc.net/problem/2098
+Number of Steps to Reduce a Number in Binary Representation to One
+https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/
+부등호 
+https://www.acmicpc.net/problem/2529
+Perfect squares 
+https://leetcode.com/problems/perfect-squares/
+
+
+---------------------
+원주: 문자열 폭발 
+원주: 주사위 윷놀이 
+희연: 외판원 순회 
+희연: Number of Steps to Reduce a Number in Binary Representation to One
+동훈: 부등호 
+동훈: Perfect squares 
