@@ -1,7 +1,7 @@
 # allergy
 Season 1: Allergy
 
---- 
+---
 
 ### member
 1. 동훈
@@ -42,4 +42,7 @@ Al-ryeo-jum
 Aladin
 Al illah
 Alchemist
+Alistar
+Algae
+Alumni
 ```

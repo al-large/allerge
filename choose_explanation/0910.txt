@@ -1,0 +1,12 @@
+﻿감소하는 수
+https://www.acmicpc.net/problem/1038
+QR
+https://www.acmicpc.net/problem/2680
+기지국 설치
+https://programmers.co.kr/learn/courses/30/lessons/12979
+경주로 건설
+https://programmers.co.kr/learn/courses/30/lessons/67259
+79. Word Search
+https://leetcode.com/problems/word-search/
+648. Replace Words
+https://leetcode.com/problems/replace-words/
