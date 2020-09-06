@@ -31,7 +31,7 @@ public:
  
         else {
             if (child[s[idx]-'a'] == NULL) {
-            child[s[idx]-'a'] = new Tri_Node();
+            	child[s[idx]-'a'] = new Tri_Node();
             }
             child[s[idx]-'a']->insert(s,idx+1);
         }
@@ -66,7 +66,7 @@ public:
     string replaceWords(vector<string>& dictionary, string sentence) {
         string answer = "";
         Tri_Node* root = new Tri_Node();
-		for (int i=0;i<dictionary.size();i++){
+	for (int i=0;i<dictionary.size();i++){
             root->insert(dictionary[i]);
         }
         
