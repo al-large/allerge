@@ -10,3 +10,11 @@ https://programmers.co.kr/learn/courses/30/lessons/67259
 https://leetcode.com/problems/word-search/
 648. Replace Words
 https://leetcode.com/problems/replace-words/
+
+---------------------
+동훈: ﻿감소하는 수
+원주: QR
+원주: 기지국 설치
+동훈: 경주로 건설
+희연: 79. Word Search
+희연: 648. Replace Words
