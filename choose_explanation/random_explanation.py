@@ -5,11 +5,10 @@ import os
 for filename in os.listdir(os.getcwd()):
     if filename.endswith(".txt"):
         
-        name = ["희연", "동훈", "원주"]
-        p = 3
-        probs = []
+        name = ["희연", "동훈", "원주"] # 참여자 목록
+        probs = [] # 문제 이름 목록
         f = open(filename,'rt', encoding='UTF8')
-        nums = 0
+        nums = 0 # 문제 총 개수
         flag = False
         
         while True and not flag:
@@ -34,10 +33,13 @@ for filename in os.listdir(os.getcwd()):
         #print(probs)
         #print(names)
         names = []
-        for _ in range(nums//p + (1 if nums%p else 0)):
+
+        # 문제마다 사람 배정
+        for _ in range(nums//len(name) + (1 if nums%len(name) else 0)):
             names += name
 
-        for _ in range(nums%p):
+        # 7문제, 3명이면 2명은 더미 문제에 배정하기 위함.
+        for _ in range(nums%len(name)):
             probs.append(".")
         
         shuffle(names)

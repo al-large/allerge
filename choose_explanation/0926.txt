@@ -1,0 +1,8 @@
+﻿퍼즐
+https://www.acmicpc.net/problem/1525
+치즈
+https://www.acmicpc.net/problem/2638
+Philosopher's Walk
+https://www.acmicpc.net/problem/14956
+원숭이 스포츠
+https://www.acmicpc.net/problem/16438
