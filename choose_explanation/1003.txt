@@ -1,0 +1,20 @@
+﻿알 수 없는 문장
+https://www.acmicpc.net/problem/1099
+가르침
+https://www.acmicpc.net/problem/1062
+키 순서 
+https://www.acmicpc.net/problem/2458
+텀 프로젝트 
+https://www.acmicpc.net/problem/9466
+Target Sum
+https://leetcode.com/problems/target-sum/
+Combination Sum IV
+https://leetcode.com/problems/combination-sum-iv/
+
+---------------------
+동훈: ﻿알 수 없는 문장
+동훈: 가르침
+희연: 키 순서 
+원주: 텀 프로젝트 
+희연: Target Sum
+원주: Combination Sum IV
