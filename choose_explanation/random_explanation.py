@@ -25,6 +25,7 @@ for filename in os.listdir(os.getcwd()):
             probs.append(line)
             nums += 1
 
+        # 이미 배정이 완료된 날짜.
         if flag:
             f.close()
             continue
