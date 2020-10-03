@@ -22,7 +22,7 @@ for filename in os.listdir(os.getcwd()):
 
     # 문제 수집
     probs = []
-    f = open(filename, 'rt', encoding='utf-8-sig')
+    f = open(filename, 'rt', encoding='utf-8')
     while True:
         line = f.readline().splitlines()
         if not line:
@@ -33,8 +33,9 @@ for filename in os.listdir(os.getcwd()):
 
     # 문제 기록
     day = days[datetime.datetime(int(y), int(m), int(d)).weekday()]
-    f = open(target + f"\\{y}-{m}-{d}.md", 'w', encoding='utf-8-sig')
-    f.write(f"""## {y}/{int(m)}/{int(d)}/{day}, 자유주제
+    f = open(target + f"\\{y}-{m}-{d}.md", 'wt', encoding='utf-8')
+    f.write(f"""
+## {y}/{int(m)}/{int(d)}/{day}, 자유주제
 자기 하고 싶은 문제 2개씩
 
 
