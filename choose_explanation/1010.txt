@@ -1,0 +1,12 @@
+부분수열의 합 2
+https://www.acmicpc.net/problem/1208
+가운데를 말해요
+https://www.acmicpc.net/problem/1655
+평범한 배낭 
+https://www.acmicpc.net/problem/12865 
+Coin Change 2 
+https://leetcode.com/problems/coin-change-2/
+Longest String Chain
+https://leetcode.com/problems/longest-string-chain/description/
+Largest Sum of Averages
+https://leetcode.com/problems/largest-sum-of-averages/
