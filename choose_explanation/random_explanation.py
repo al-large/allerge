@@ -5,7 +5,7 @@ import os
 for filename in os.listdir(os.getcwd()):
     if filename.endswith(".txt"):
         
-        name = ["동훈", "원주"] # 참여자 목록
+        name = ["동훈", "원주", "희연"] # 참여자 목록
         probs = [] # 문제 이름 목록
         f = open(filename,'rt', encoding='UTF8')
         nums = 0 # 문제 총 개수

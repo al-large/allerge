@@ -10,3 +10,11 @@ Longest String Chain
 https://leetcode.com/problems/longest-string-chain/description/
 Largest Sum of Averages
 https://leetcode.com/problems/largest-sum-of-averages/
+
+---------------------
+동훈: 부분수열의 합 2
+희연: 가운데를 말해요
+동훈: 평범한 배낭 
+원주: Coin Change 2 
+원주: Longest String Chain
+희연: Largest Sum of Averages
