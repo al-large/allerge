@@ -1,0 +1,12 @@
+제곱ㄴㄴ수
+https://www.acmicpc.net/problem/1016
+청소년 상어
+https://www.acmicpc.net/problem/19236
+합분해 
+https://www.acmicpc.net/problem/2225 
+내리막 길
+https://www.acmicpc.net/problem/1520
+All Paths From Source to Target
+https://leetcode.com/problems/all-paths-from-source-to-target/
+Out of Boundary Paths
+https://leetcode.com/problems/out-of-boundary-paths/
